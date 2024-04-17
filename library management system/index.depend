@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1713299399 source:c:\users\vlada\onedrive\desktop\library_management_system_c(true)\index\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+
+1713265558 c:\users\vlada\onedrive\desktop\library_management_system_c(true)\person\person.h
+
